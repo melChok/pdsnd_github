@@ -4,7 +4,8 @@
 Project and file created 17/11/2021
 
 ### Project Title
-Bikeshare
+*Exploring Bikeshare Data*
+![Alt](https://images.app.goo.gl/YQvQBuPn7naGo6Xo8.png)
 
 ### Description
 A simple app that explores bicycle sharing data of 3 large cities in the United States, namely, Chicago, New York City and Washington, DC  for the year 2017
@@ -17,3 +18,4 @@ washington.csv
 
 ### Credits
 Udacity git course [blog project](https://github.com/udacity/course-git-blog-project).
+Images from [bicycling.com](https://www.bicycling.com/bikes-gear/a23067076/types-of-bikes/)
