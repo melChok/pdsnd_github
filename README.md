@@ -7,7 +7,7 @@ Project and file created 17/11/2021
 Bikeshare
 
 ### Description
-A simple app that computes descriptive stats of the Bikeshare company for the year 2017
+A simple app that explores bicycle sharing data of 3 large cities in the United States, namely, Chicago, New York City and Washington, DC  for the year 2017
 
 ### Files used
 Bikeshare.py
