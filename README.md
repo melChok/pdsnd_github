@@ -5,7 +5,7 @@ Project and file created 17/11/2021
 
 ### Project Title
 *Exploring Bikeshare Data*
-![Alt text](https://images.app.goo.gl/YQvQBuPn7naGo6Xo8.jpg)
+![Alt text](https://images.app.goo.gl/YQvQBuPn7naGo6Xo8)
 
 ### Description
 A simple app that explores bicycle sharing data of 3 large cities in the United States, namely, Chicago, New York City and Washington, DC  for the year 2017
