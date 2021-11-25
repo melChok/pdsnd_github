@@ -190,16 +190,13 @@ def raw_data_promt(df):
 
     User_promt_1 = input('\nWould you like to see raw data? Enter yes to see raw data\n').lower()
 
-    i=0
-    while User_promt_1 == 'yes':
-        while i <= df.shape[0]:
-            print(df[i:i+5])
-            i+=5
-            if i <=2000:
-             break
-        Stop_display = input('\nWould you like to see more raw data? Enter yes or no\n').lower()
-        if  Stop_display.lower() == 'no':
-              break
+   i=0
+   while User_promt_1 == 'yes' and i <= df.shape[0]:
+     print(df[i:i+5])
+     i+=5
+     Stop_display = input('\nWould you like to see more raw data? Enter yes or no\n').lower()
+     if  Stop_display.lower() == 'no':
+      break
 
 
 
