@@ -163,8 +163,7 @@ def user_stats(df):
     print('\nGender Information:\n')
     if 'Gender' in df.columns:
         gender_types = df['Gender'].value_counts()
-        print(pd.Series(gender_types))
-    else:
+        print(pd.Series(gender_types)) if 'Gender' in df.columns else \
         print('No Gender information to display')
 
     # TO DO: Display earliest, most recent, and most common year of birth
